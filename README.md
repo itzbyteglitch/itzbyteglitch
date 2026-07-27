@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm ItzByteGlitch! <img src="https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue" />
 
 <h3 align="center">💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder</h3>
@@ -112,4 +111,3 @@ Building modern web applications, AI-powered tools, automation, browser experien
 <p align="center">
 ⭐ Thanks for visiting my profile! If you enjoy my work, consider ⭐ starring one of my repositories.
 </p>
-```
