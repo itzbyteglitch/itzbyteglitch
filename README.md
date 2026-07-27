@@ -1,8 +1,7 @@
+```md
 # 👋 Hi, I'm ItzByteGlitch! <img src="https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue" />
 
-<h3 align="center">
-💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
-</h3>
+<h3 align="center">💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder</h3>
 
 <p align="center">
 Building modern web applications, AI-powered tools, automation, browser experiences, and open-source projects.
@@ -17,7 +16,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 - ☁️ Developing **Cloudflare Workers & Serverless Applications**
 - 🎮 Interested in **Browser Games & Real-Time Systems**
 - 🌱 Learning **System Design, Distributed Systems & DevOps**
-- ⚡ Always experimenting with new technologies and shipping cool projects.
+- ⚡ Passionate about creating practical software and contributing to open source.
 
 ---
 
@@ -45,38 +44,32 @@ Building modern web applications, AI-powered tools, automation, browser experien
 ### 🤖 AI & Developer Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-🔹 AI-powered applications
-
-🔹 Browser automation tools
-
-🔹 Cloudflare & Serverless projects
-
-🔹 Modern full-stack web apps
-
-🔹 Browser-based multiplayer games
-
-🔹 Open-source utilities
+- 🤖 AI-powered Applications
+- ☁️ Cloudflare & Serverless Projects
+- 🌐 Full-Stack Web Applications
+- ⚙️ Automation Tools
+- 🎮 Browser-Based Games
+- 🧩 Open Source Projects
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,18 +95,21 @@ Building modern web applications, AI-powered tools, automation, browser experien
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ItzByteGlitch)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/ItzByteGlitch)
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://curseforge.com/members/ItzByteGlitch)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dspatel.prs@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dspatel.prs@gmail.com)
 
 ---
 
-## 💭 Quote
+## 💭 Philosophy
 
 > **"Build. Learn. Improve. Repeat."** 🚀
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
 </p>
 
+---
+
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider starring one of my repositories.
+⭐ Thanks for visiting my profile! If you enjoy my work, consider ⭐ starring one of my repositories.
 </p>
+```
