@@ -1,8 +1,21 @@
-# 👋 Hi, I'm ItzByteGlitch! ![Profile Views](https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue)
+<h1 align="center">
+  Hi 👋, I'm ItzByteGlitch
+</h1>
 
-## 💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
+<p align="center">
+  <a href="https://github.com/itzbyteglitch">
+    <img src="https://komarev.com/ghpvc/?username=itzbyteglitch&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
-Building modern web applications, AI-powered tools, automation, browser experiences, and open-source projects.
+<h3 align="center">
+💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
+</h3>
+
+<p align="center">
+Building modern web applications, AI-powered tools, automation,<br>
+browser experiences, Cloudflare applications and open-source projects.
+</p>
 
 ---
 
@@ -13,76 +26,67 @@ Building modern web applications, AI-powered tools, automation, browser experien
 - ☁️ Developing **Cloudflare Workers & Serverless Applications**
 - 🎮 Interested in **Browser Games & Real-Time Systems**
 - 🌱 Learning **System Design, Distributed Systems & DevOps**
-- ⚡ Passionate about creating practical software and contributing to open source.
+- ⚡ Passionate about creating practical software and contributing to Open Source.
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
-<p align="left">
-  <img src="https://badgen.net/badge/TypeScript/Language/3178C6" />
-  <img src="https://badgen.net/badge/JavaScript/Language/F7DF1E" />
-  <img src="https://badgen.net/badge/Python/Language/3776AB" />
-  <img src="https://badgen.net/badge/HTML5/Markup/E34F26" />
-  <img src="https://badgen.net/badge/CSS3/Styles/1572B6" />
-  <img src="https://badgen.net/badge/C++/Language/00599C" />
-  <img src="https://badgen.net/badge/C/Language/555555" />
-  <img src="https://badgen.net/badge/Java/Language/007396" />
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
-<p align="left">
-  <img src="https://badgen.net/badge/React/Framework/61DAFB" />
-  <img src="https://badgen.net/badge/Next.js/Framework/000000" />
-  <img src="https://badgen.net/badge/Node.js/Runtime/339933" />
-  <img src="https://badgen.net/badge/Express.js/Backend/000000" />
-  <img src="https://badgen.net/badge/TailwindCSS/CSS/38B2AC" />
-  <img src="https://badgen.net/badge/Cloudflare/Workers/F38020" />
-  <img src="https://badgen.net/badge/Git/Version%20Control/F05032" />
-  <img src="https://badgen.net/badge/GitHub/Hosting/181717" />
-  <img src="https://badgen.net/badge/Linux/OS/FCC624" />
-  <img src="https://badgen.net/badge/VS%20Code/Editor/007ACC" />
-  <img src="https://badgen.net/badge/Docker/Container/2496ED" />
-  <img src="https://badgen.net/badge/GitHub%20Actions/CI-CD/2088FF" />
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 🤖 AI & Developer Tools
+### 🤖 AI & Developer Tools
 
-<p align="left">
-  <img src="https://badgen.net/badge/OpenAI/API/412991" />
-  <img src="https://badgen.net/badge/ChatGPT/Assistant/10A37F" />
-  <img src="https://badgen.net/badge/Claude/LLM/D97757" />
-  <img src="https://badgen.net/badge/Gemini/AI/8E75B2" />
-  <img src="https://badgen.net/badge/GitHub%20Copilot/AI/000000" />
-  <img src="https://badgen.net/badge/Google%20AI%20Studio/Platform/4285F4" />
-  <img src="https://badgen.net/badge/Hugging%20Face/Models/FFD21E" />
-  <img src="https://badgen.net/badge/Ollama/Local%20LLMs/000000" />
-  <img src="https://badgen.net/badge/LangChain/Framework/1C3C3C" />
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Featured Work
 
-- 🤖 AI-powered Applications
+- 🤖 AI Applications
 - ☁️ Cloudflare & Serverless Projects
 - 🌐 Full-Stack Web Applications
 - ⚙️ Automation Tools
-- 🎮 Browser-Based Games
+- 🎮 Browser Games
 - 🧩 Open Source Projects
 
 ---
 
 # 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight) |
+<p align="center">
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true)
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -99,42 +103,42 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://portfolio.itzbyteglitch.qzz.io" target="_blank">
-  <img src="https://badgen.net/badge/Portfolio/Visit/00C853" />
+<a href="https://portfolio.itzbyteglitch.qzz.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/itzbyteglitch" target="_blank">
-  <img src="https://badgen.net/badge/GitHub/@itzbyteglitch/181717" />
+<a href="https://github.com/itzbyteglitch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/divyansh-singh-patel-39a4b5415" target="_blank">
-  <img src="https://badgen.net/badge/LinkedIn/Connect/0A66C2" />
+<a href="https://linkedin.com/in/divyansh-singh-patel-39a4b5415">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/ItzByteGlitch" target="_blank">
-  <img src="https://badgen.net/badge/Instagram/@ItzByteGlitch/E4405F" />
+<a href="https://instagram.com/ItzByteGlitch">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://x.com/ItzByteGlitch" target="_blank">
-  <img src="https://badgen.net/badge/X/@ItzByteGlitch/000000" />
+<a href="https://x.com/ItzByteGlitch">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://t.me/ItzByteGlitch" target="_blank">
-  <img src="https://badgen.net/badge/Telegram/@ItzByteGlitch/26A5E4" />
+<a href="https://t.me/ItzByteGlitch">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://modrinth.com/user/ItzByteGlitch" target="_blank">
-  <img src="https://badgen.net/badge/Modrinth/Profile/00AF5C" />
+<a href="https://modrinth.com/user/ItzByteGlitch">
+<img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white"/>
 </a>
 
-<a href="https://curseforge.com/members/ItzByteGlitch" target="_blank">
-  <img src="https://badgen.net/badge/CurseForge/Profile/F16436" />
+<a href="https://curseforge.com/members/ItzByteGlitch">
+<img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
 </a>
 
 <a href="mailto:dspatel.prs@gmail.com">
-  <img src="https://badgen.net/badge/Gmail/Contact/D14836" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -143,10 +147,18 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 # 💭 Philosophy
 
-> **Build. Learn. Improve. Repeat.** 🚀
+> **Build. Learn. Improve. Repeat. 🚀**
 
-![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! If you enjoy my work, consider starring one of my repositories.
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you enjoy my work, consider starring one of my repositories.
+</p>
