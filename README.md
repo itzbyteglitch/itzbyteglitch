@@ -1,8 +1,17 @@
-# 👋 Hi, I'm ItzByteGlitch! ![Profile Views](https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue)
- 
-## 💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
+<h1 align="center">Hi 👋, I'm ItzByteGlitch</h1>
 
-Building modern web applications, AI-powered tools, automation, browser experiences, and open-source projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzbyteglitch&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h3 align="center">
+💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
+</h3>
+
+<p align="center">
+Building modern web applications, AI-powered tools, automation, browser experiences,<br>
+Cloudflare applications and open-source projects.
+</p>
 
 ---
 
@@ -13,7 +22,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 - ☁️ Developing **Cloudflare Workers & Serverless Applications**
 - 🎮 Interested in **Browser Games & Real-Time Systems**
 - 🌱 Learning **System Design, Distributed Systems & DevOps**
-- ⚡ Passionate about creating practical software and contributing to open source.
+- ⚡ Passionate about building useful software and contributing to Open Source.
 
 ---
 
@@ -21,21 +30,32 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ## 💻 Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css" />
+</p>
 
 ## ⚙️ Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,cloudflare,git,github,linux,vscode" />
+</p>
 
 ## 🤖 AI & Developer Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+  <br><br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Work
 
-- 🤖 AI-powered Applications
+- 🤖 AI Applications
 - ☁️ Cloudflare & Serverless Projects
 - 🌐 Full-Stack Web Applications
 - ⚙️ Automation Tools
@@ -46,11 +66,14 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 # 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight) |
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -67,7 +90,45 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 # 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.itzbyteglitch.qzz.io) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzbyteglitch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-singh-patel-39a4b5415) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ItzByteGlitch) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ItzByteGlitch) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ItzByteGlitch) [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/ItzByteGlitch) [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://curseforge.com/members/ItzByteGlitch) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dspatel.prs@gmail.com)
+<p align="center">
+
+<a href="https://portfolio.itzbyteglitch.qzz.io">
+<img src="https://skillicons.dev/icons?i=htmx" height="48" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/itzbyteglitch">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/divyansh-singh-patel-39a4b5415">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/ItzByteGlitch">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="48"/>
+</a>
+
+<a href="https://x.com/ItzByteGlitch">
+<img src="https://cdn.simpleicons.org/x/ffffff" height="48"/>
+</a>
+
+<a href="https://t.me/ItzByteGlitch">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48"/>
+</a>
+
+<a href="https://modrinth.com/user/ItzByteGlitch">
+<img src="https://cdn.simpleicons.org/modrinth/00AF5C" height="48"/>
+</a>
+
+<a href="https://curseforge.com/members/ItzByteGlitch">
+<img src="https://cdn.simpleicons.org/curseforge/F16436" height="48"/>
+</a>
+
+<a href="mailto:dspatel.prs@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
@@ -75,8 +136,13 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 > **Build. Learn. Improve. Repeat.** 🚀
 
-![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! If you enjoy my work, consider starring one of my repositories.
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b><br><br>
+If you enjoy my work, consider ⭐ starring one of my repositories.
+</p>
