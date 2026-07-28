@@ -1,14 +1,12 @@
-# 👋 Hi, I'm ItzByteGlitch! <img src="https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue" />
+# 👋 Hi, I'm ItzByteGlitch! ![Profile Views](https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue)
 
-<h3 align="center">💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder</h3>
+## 💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
 
-<p align="center">
 Building modern web applications, AI-powered tools, automation, browser experiences, and open-source projects.
-</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Building **Full-Stack Web Applications**
 - 🤖 Exploring **AI Agents, LLMs & Automation**
@@ -19,9 +17,9 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +27,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+## ⚙️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -40,7 +38,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🤖 AI & Developer Tools
+## 🤖 AI & Developer Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
@@ -49,7 +47,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Work
 
 - 🤖 AI-powered Applications
 - ☁️ Cloudflare & Serverless Projects
@@ -60,20 +58,17 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight" />
-</p>
+| GitHub Stats | Top Languages |
+|:---:|:---:|
+| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight) |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 - 🤖 AI Agents
 - ☁️ Cloudflare Workers
@@ -84,7 +79,7 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.itzbyteglitch.qzz.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzbyteglitch)
@@ -98,16 +93,12 @@ Building modern web applications, AI-powered tools, automation, browser experien
 
 ---
 
-## 💭 Philosophy
+# 💭 Philosophy
 
-> **"Build. Learn. Improve. Repeat."** 🚀
+> **Build. Learn. Improve. Repeat.** 🚀
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
-</p>
+![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! If you enjoy my work, consider ⭐ starring one of my repositories.
-</p>
+⭐ Thanks for visiting my profile! If you enjoy my work, consider starring one of my repositories.
