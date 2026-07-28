@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ItzByteGlitch![Profile Views]([https://komarev.com/ghpvc/?username=itzbyteglitch&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=itzbyteglitch&label=Profile+Views&color=0e75b6&style=for-the-badge)
+# 👋 Hi, I'm ItzByteGlitch![Profile Views](https://komarev.com/ghpvc/?username=itzbyteglitch&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 ## 💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
 
