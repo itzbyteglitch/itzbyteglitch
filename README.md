@@ -91,10 +91,6 @@
 <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 # 📈 Contribution Graph
