@@ -8,13 +8,8 @@
   </a>
 </p>
 
-<h3 align="center">
-💻 Full-Stack Developer • 🤖 AI Enthusiast • ☁️ Cloud-Native Builder
-</h3>
-
 <p align="center">
-Building modern web applications, AI-powered tools, automation,<br>
-browser experiences, Cloudflare applications and open-source projects.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=AI+%E2%80%A2+Cloudflare+%E2%80%A2+Minecraft;Building+Modern+Web+Applications;Developing+Minecraft+Mods;Creating+Browser+Games;Automating+Everything+I+Can;Turning+Ideas+Into+Reality;Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
@@ -24,9 +19,20 @@ browser experiences, Cloudflare applications and open-source projects.
 - 🔭 Building **Full-Stack Web Applications**
 - 🤖 Exploring **AI Agents, LLMs & Automation**
 - ☁️ Developing **Cloudflare Workers & Serverless Applications**
-- 🎮 Interested in **Browser Games & Real-Time Systems**
+- 🎮 Interested in **Minecraft Modding, Browser Games & Real-Time Systems**
 - 🌱 Learning **System Design, Distributed Systems & DevOps**
 - ⚡ Passionate about creating practical software and contributing to Open Source.
+
+---
+
+# 🚀 What I Do
+
+- 🌐 Build modern **Full-Stack Web Applications**
+- ☁️ Develop **Cloudflare Workers & Serverless APIs**
+- 🤖 Create **AI-powered Tools & Automation**
+- 🎮 Develop **Minecraft Mods & Utilities**
+- ⚡ Build **Fast, Scalable Backend Systems**
+- 🧩 Contribute to **Open Source Projects**
 
 ---
 
@@ -64,6 +70,7 @@ browser experiences, Cloudflare applications and open-source projects.
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
+
 ---
 
 # 🚀 Featured Work
@@ -80,12 +87,20 @@ browser experiences, Cloudflare applications and open-source projects.
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzbyteglitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=itzbyteglitch&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzbyteglitch&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -149,10 +164,6 @@ browser experiences, Cloudflare applications and open-source projects.
 
 > **Build. Learn. Improve. Repeat. 🚀**
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
-</p>
-
 ---
 
 <h3 align="center">
@@ -161,4 +172,8 @@ browser experiences, Cloudflare applications and open-source projects.
 
 <p align="center">
 If you enjoy my work, consider starring one of my repositories.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
 </p>
