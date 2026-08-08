@@ -163,8 +163,8 @@
 <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
 </a>
 
-<a href="mailto:dspatel.prs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:admin@itzbyteglitch.qzz.io">
+<img src="https://img.shields.io/badge/admin@itzbyteglitch.qzz.io-D14836?style=for-the-badge&logo=mailgun&logoColor=white"/>
 </a>
 
 </p>
