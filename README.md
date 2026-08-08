@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm ItzByteGlitch
+  Hi 👋, I'm Divyansh Singh Patel (ItzByteGlitch)
 </h1>
 
 <p align="center">
@@ -75,6 +75,21 @@
 
 # 🚀 Featured Work
 
+<p align="center">
+<a href="https://github.com/itzbyteglitch/Aqualoop">
+<img src="https://img.shields.io/badge/Aqualoop-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/itzbyteglitch/wildcards">
+<img src="https://img.shields.io/badge/WildCards-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/itzbyteglitch/CloudChatMC">
+<img src="https://img.shields.io/badge/CloudChatMC-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+- 💧 **AquaLoop** — Smart water IoT dashboard monitoring rainwater & RO reject loops with real-time quality scoring and explainable reuse recommendations. Built with React 19, TanStack Start, TypeScript & Tailwind v4.
+- 🃏 **WildCards** — A production-quality, browser-based multiplayer UNO game with real-time rooms, smart bots, and cross-device sync. Built with React, TypeScript & Cloudflare Workers.
+- ☁️ **CloudChatMC** — A client-side Fabric mod that creates a private, persistent chat tunnel between friends across any Minecraft server — no plugins needed. Powered by a free Cloudflare Worker backend with token-based identity, global chat & private messaging.
 - 🤖 AI Applications
 - ☁️ Cloudflare & Serverless Projects
 - 🌐 Full-Stack Web Applications
