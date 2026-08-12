@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/itzbyteglitch?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-Explore-238636?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-Explore-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -96,21 +96,10 @@ Browser games, multiplayer systems, Minecraft mods and experimental interactive 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20Automation-██████████████████░░-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Web%20Development-████████████████████-3178C6?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Cloud%20%26%20Serverless-██████████████████░░-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Game%20Development-███████████████░░░░░-9B59B6?style=for-the-badge&logo=googleplay&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Minecraft-████████████████░░░░-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Systems%20%26%20DevOps-█████████████░░░░░░░-24292F?style=for-the-badge&logo=linux&logoColor=white"/>
+<img
+width="850"
+src="https://api.gru0.dev/progress/v1/multi?bars=AI%20%26%20Automation%3A90%3A100%3A%238A5CFF%7CWeb%20Development%3A95%3A100%3A%2358A6FF%7CCloud%20%26%20Serverless%3A88%3A100%3A%23F38020%7CGame%20Development%3A78%3A100%3A%23D946EF%7CMinecraft%3A82%3A100%3A%2362B47A%7CSystems%20%26%20DevOps%3A70%3A100%3A%2300D4FF&bg=%230B1020&dark=true"
+/>
 
 </div>
 
@@ -301,13 +290,19 @@ A cyberpunk-inspired personal portfolio featuring interactive animations, certif
 
 ### 🧠 Overall Statistics
 
-<img width="92%" src="https://github-stats-extended.vercel.app/api/?username=itzbyteglitch&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Divyansh%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
+<img
+width="92%"
+src="https://github-stats-extended.vercel.app/api/?username=itzbyteglitch&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Statistics&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&bg_color=0B1020&title_color=58A6FF&text_color=E6EDF3&icon_color=8A5CFF&border_color=1F2937"
+/>
 
 <br/><br/>
 
 ### 💻 Most Used Languages
 
-<img width="70%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&theme=calm&hide_border=true"/>
+<img
+width="70%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzbyteglitch&layout=compact&langs_count=8&bg_color=0B1020&title_color=58A6FF&text_color=E6EDF3&icon_color=8A5CFF&border_color=1F2937"
+/>
 
 </div>
 
@@ -317,7 +312,10 @@ A cyberpunk-inspired personal portfolio featuring interactive animations, certif
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzbyteglitch&theme=tokyo-night&hide_border=true&area=true&custom_title=Divyansh%27s%20Contribution%20Graph"/>
+<img
+width="96%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=itzbyteglitch&bg_color=0B1020&color=E6EDF3&title_color=58A6FF&line=8A5CFF&point=00D4FF&area_color=58A6FF&area=true&border_color=1F2937&hide_border=false&radius=12&custom_title=Contribution%20Activity&days=35&grid=true"
+/>
 
 </div>
 
@@ -388,10 +386,6 @@ A cyberpunk-inspired personal portfolio featuring interactive animations, certif
 ### 💭
 
 > **The best way to learn something is to build it.**
-
-<br/>
-
-### **Build. Learn. Improve. Repeat. 🚀**
 
 <br/>
 
